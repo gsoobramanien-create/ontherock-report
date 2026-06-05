@@ -1,0 +1,24 @@
+{
+  "short_name": "On The Rock",
+  "name": "On The Rock – Daily Report",
+  "description": "Kindergarten daily report card for children under 3",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#f7971e",
+  "background_color": "#fff9f0",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
